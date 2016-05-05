@@ -1,2 +1,2 @@
 # portfolio
-node_modules
+node_modules 
